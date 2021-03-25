@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Der-ImmobilienFISCHER
+title: Der Immobilien FISCHER
 subtitle: Meine Super Puper Immobilien
 ---
