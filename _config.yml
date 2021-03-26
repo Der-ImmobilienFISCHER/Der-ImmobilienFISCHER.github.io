@@ -19,6 +19,7 @@ author: Bernd Fischer
 navbar-links:
   Home: "index"
   Über mich: "aboutme"
+  Tag Index: "tags"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
