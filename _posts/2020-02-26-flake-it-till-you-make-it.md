@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Einfamilienhäuser, Doppelhäuser, Falkensee]
 ---
 
-wir bieten neue Häuser in Falkensee an.
+wir bieten neue Häuser in Falkensee an. Sensationell!
 
 <!-- [![Falkensee](http://img.youtube.com/vi/wvg2THh2bSI/0.jpg)](http://www.youtube.com/watch?v=wvg2THh2bSI "Falkensee") -->
 
